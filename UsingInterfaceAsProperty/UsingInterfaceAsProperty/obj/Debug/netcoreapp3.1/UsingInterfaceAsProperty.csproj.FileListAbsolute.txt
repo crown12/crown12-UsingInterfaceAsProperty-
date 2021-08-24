@@ -1,0 +1,13 @@
+F:\Users\Fathi\source\repos\crown12-UsingInterfaceAsProperty-\UsingInterfaceAsProperty\UsingInterfaceAsProperty\bin\Debug\netcoreapp3.1\UsingInterfaceAsProperty.exe
+F:\Users\Fathi\source\repos\crown12-UsingInterfaceAsProperty-\UsingInterfaceAsProperty\UsingInterfaceAsProperty\bin\Debug\netcoreapp3.1\UsingInterfaceAsProperty.deps.json
+F:\Users\Fathi\source\repos\crown12-UsingInterfaceAsProperty-\UsingInterfaceAsProperty\UsingInterfaceAsProperty\bin\Debug\netcoreapp3.1\UsingInterfaceAsProperty.runtimeconfig.json
+F:\Users\Fathi\source\repos\crown12-UsingInterfaceAsProperty-\UsingInterfaceAsProperty\UsingInterfaceAsProperty\bin\Debug\netcoreapp3.1\UsingInterfaceAsProperty.runtimeconfig.dev.json
+F:\Users\Fathi\source\repos\crown12-UsingInterfaceAsProperty-\UsingInterfaceAsProperty\UsingInterfaceAsProperty\bin\Debug\netcoreapp3.1\UsingInterfaceAsProperty.dll
+F:\Users\Fathi\source\repos\crown12-UsingInterfaceAsProperty-\UsingInterfaceAsProperty\UsingInterfaceAsProperty\bin\Debug\netcoreapp3.1\UsingInterfaceAsProperty.pdb
+F:\Users\Fathi\source\repos\crown12-UsingInterfaceAsProperty-\UsingInterfaceAsProperty\UsingInterfaceAsProperty\obj\Debug\netcoreapp3.1\UsingInterfaceAsProperty.csproj.AssemblyReference.cache
+F:\Users\Fathi\source\repos\crown12-UsingInterfaceAsProperty-\UsingInterfaceAsProperty\UsingInterfaceAsProperty\obj\Debug\netcoreapp3.1\UsingInterfaceAsProperty.AssemblyInfoInputs.cache
+F:\Users\Fathi\source\repos\crown12-UsingInterfaceAsProperty-\UsingInterfaceAsProperty\UsingInterfaceAsProperty\obj\Debug\netcoreapp3.1\UsingInterfaceAsProperty.AssemblyInfo.cs
+F:\Users\Fathi\source\repos\crown12-UsingInterfaceAsProperty-\UsingInterfaceAsProperty\UsingInterfaceAsProperty\obj\Debug\netcoreapp3.1\UsingInterfaceAsProperty.csproj.CoreCompileInputs.cache
+F:\Users\Fathi\source\repos\crown12-UsingInterfaceAsProperty-\UsingInterfaceAsProperty\UsingInterfaceAsProperty\obj\Debug\netcoreapp3.1\UsingInterfaceAsProperty.dll
+F:\Users\Fathi\source\repos\crown12-UsingInterfaceAsProperty-\UsingInterfaceAsProperty\UsingInterfaceAsProperty\obj\Debug\netcoreapp3.1\UsingInterfaceAsProperty.pdb
+F:\Users\Fathi\source\repos\crown12-UsingInterfaceAsProperty-\UsingInterfaceAsProperty\UsingInterfaceAsProperty\obj\Debug\netcoreapp3.1\UsingInterfaceAsProperty.genruntimeconfig.cache
