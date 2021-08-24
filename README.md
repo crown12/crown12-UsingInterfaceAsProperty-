@@ -1,0 +1,1 @@
+# crown12-UsingInterfaceAsProperty-
